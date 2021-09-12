@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Sesion01InicioApplication<Sesion01Inicio>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.empresa.Sesion01InicioApplication",
+            "projectName": "Sesion01Inicio",
+            "args": ""
+        }
+    ]
+}
